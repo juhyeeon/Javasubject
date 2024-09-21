@@ -1,3 +1,4 @@
+//110page 2번
 package JavaSub;
 
 import java.util.Scanner;

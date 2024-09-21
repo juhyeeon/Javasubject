@@ -1,3 +1,4 @@
+// 52page 1번
 package JavaSub;
 
 public class MyinfoApp {
